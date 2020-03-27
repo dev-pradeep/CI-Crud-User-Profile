@@ -1,0 +1,4 @@
+/*style for validation message*/
+.error {
+	color: red !important;
+}

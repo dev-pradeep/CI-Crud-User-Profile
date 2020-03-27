@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'FontAwesome';    
+    src: url('aparaj.ttf') format('truetype');
+    src: url('arial.ttf') format('truetype');
+    src: url('arialbd.ttf') format('truetype');
+    src: url('arialbi.ttf') format('truetype');
+    src: url('bgothl.ttf') format('truetype');
+    src: url('framd.ttf') format('truetype');
+    src: url('framdit.ttf') format('truetype');
+    src: url('FutuBd_.ttf') format('truetype');
+    src: url('FutuBd__.ttf') format('truetype');
+    src: url('FutuBdIt.ttf') format('truetype');
+    src: url('FutuBl_.ttf') format('truetype');
+    src: url('FutuBl__.ttf') format('truetype');
+    src: url('FutuEBl.ttf') format('truetype');
+    src: url('FutuEBl_.ttf') format('truetype');
+    src: url('FutuEBl_1.ttf') format('truetype');
+    src: url('FutuLt_.ttf') format('truetype');
+    src: url('FutuLt__.ttf') format('truetype');
+    src: url('FutuLt__1.ttf') format('truetype');
+    src: url('FutuLtIt.ttf') format('truetype');
+    src: url('FutuLtIt_1.ttf') format('truetype');
+    src: url('FUTURAB.ttf') format('truetype');
+    src: url('FUTURABI.ttf') format('truetype');
+    src: url('FUTURAK.ttf') format('truetype');
+    src: url('FUTURAL.ttf') format('truetype');
+    src: url('FUTURALI.ttf') format('truetype');
+    src: url('FUTURAM.ttf') format('truetype');
+    src: url('FUTURAXK.ttf') format('truetype');
+    src: url('Horley Old Style MT Bold.ttf') format('truetype');
+    src: url('Horley Old Style MT Italic.ttf') format('truetype');
+    src: url('Horley Old Style MT Italic_2.ttf') format('truetype');
+    src: url('Horley Old Style MT SemiBold Italic.ttf') format('truetype');
+    src: url('Horley Old Style MT SemiBold.ttf') format('truetype');
+    src: url('Horley Old Style MT.ttf') format('truetype');
+    src: url('Horley Old Style MT_1.ttf') format('truetype');
+    src: url('STENCIL.ttf') format('truetype');
+    src: url('Times New Roman.ttf') format('truetype');
+    src: url('times.ttf') format('truetype');
+    src: url('timesbd.ttf') format('truetype');
+    src: url('timesbi.ttf') format('truetype');
+    src: url('timesi.ttf') format('truetype');
+    src: url('wingding.ttf') format('truetype');
+    src: url('Wingdings.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal
+}
